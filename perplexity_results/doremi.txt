@@ -1,0 +1,36 @@
+{'train_runtime': 149.3718, 'train_samples_per_second': 42.846, 'train_steps_per_second': 0.669, 'train_loss': 3.564439764022827, 'epoch': 1.0}
+284 [INFO|trainer.py:2012] 2024-05-21 23:25:45,288 >>
+285 Training completed. Do not forget to share your model on huggingface.co/models =)
+286 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 100/100 [02:27<00:00,  1.47s/it]
+287 [INFO|trainer.py:2814] 2024-05-21 23:25:45,291 >> Saving model checkpoint to /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M
+288 [INFO|trainer.py:2823] 2024-05-21 23:25:45,291 >> Trainer.model is not a `PreTrainedModel`, only saving its state dict.
+289 ***** train metrics *****
+290   avg_domain_weight:dzen    =     0.0005
+291   avg_domain_weight:lenta   =     0.1107
+292   avg_domain_weight:lj      =     0.0114
+293   avg_domain_weight:ok      =     0.1378
+294   avg_domain_weight:reddit  =     0.5918
+295   avg_domain_weight:twitter =     0.0175
+296   avg_domain_weight:vk      =     0.1304
+297   epoch                     =        1.0
+298   train_loss                =     3.7644
+299   train_runtime             = 0:02:29.37
+300   train_samples_per_second  =     42.846
+301   train_steps_per_second    =      0.669
+
+3*** Evaluate ***
+
+322 ***** eval metrics *****
+323   epoch                           =        1.0
+324   eval_dzen:log_perplexity        =     3.0924
+325   eval_lenta:log_perplexity       =     3.1388
+326   eval_lj:log_perplexity          =     3.0721
+327   eval_ok:log_perplexity          =     3.1433
+328   eval_reddit:log_perplexity      =     3.1091
+329   eval_runtime                    = 0:01:25.31
+330   eval_samples_per_second         =   3061.412
+331   eval_steps_per_second           =     34.886
+332   eval_twitter:log_perplexity     =     3.2444
+333   eval_uniform_avg_log_perplexity =     3.1185
+334   eval_vk:log_perplexity          =     3.0361
+335   eval_worst_case_log_perplexity  =     3.2444

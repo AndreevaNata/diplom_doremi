@@ -1,0 +1,31 @@
+303 {'train_runtime': 1340.6503, 'train_samples_per_second': 4.774, 'train_steps_per_second': 0.075, 'train_loss': 3.784626407623291, 'epoch': 1.0}
+305 Training completed. Do not forget to share your model on huggingface.co/models =)
+306 100%|███████████████████████████████████████████████████████████████████████████████████| 100/100 [22:18<00:00, 13.39s/it]
+307 [INFO|trainer.py:2814] 2024-05-21 23:18:27,632 >> Saving model checkpoint to /root/diplom_doremi/doremi/model_output/pile_baseline_data_200k_120M
+308 [INFO|trainer.py:2823] 2024-05-21 23:18:27,632 >> Trainer.model is not a `PreTrainedModel`, only saving its state dict.
+309 [INFO|tokenization_utils_base.py:2163] 2024-05-21 23:18:28,478 >> tokenizer config file saved in /root/diplom_doremi/doremi/model_output/pile_baseline_data_200k_120M/tokenizer_config.json
+310 [INFO|tokenization_utils_base.py:2170] 2024-05-21 23:18:28,479 >> Special tokens file saved in /root/diplom_doremi/doremi/model_output/pile_baseline_data_200k_120M/special_tokens_map.json
+311 [INFO|trainer.py:2082] 2024-05-21 23:18:28,510 >> Loading model from /root/diplom_doremi/doremi/model_output/pile_baseline_data_200k_120M/checkpoint-100.
+312 ***** train metrics *****
+313   epoch                    =        1.0
+314   train_loss               =     3.7846
+315   train_runtime            = 0:22:20.65
+316   train_samples_per_second =      4.774
+317   train_steps_per_second   =      0.075
+
+3*** Evaluate ***
+
+322 ***** eval metrics *****
+323   epoch                           =        1.0
+324   eval_dzen:log_perplexity        =     3.1898
+325   eval_lenta:log_perplexity       =     3.2255
+326   eval_lj:log_perplexity          =     3.1731
+327   eval_ok:log_perplexity          =     3.1765
+328   eval_reddit:log_perplexity      =     3.1661
+329   eval_runtime                    = 0:04:15.45
+330   eval_samples_per_second         =   1116.364
+331   eval_steps_per_second           =     34.886
+332   eval_twitter:log_perplexity     =     3.3358
+333   eval_uniform_avg_log_perplexity =     3.1949
+334   eval_vk:log_perplexity          =     3.0977
+335   eval_worst_case_log_perplexity  =     3.3358
