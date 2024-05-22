@@ -1,0 +1,75 @@
+root@diplom-test2:~# tree /root/diplom_doremi/doremi/data_preprocessed
+/root/diplom_doremi/doremi/data_preprocessed
+├── dzen
+│   ├── dataset_dict.json
+│   ├── test
+│   │   ├── data-00000-of-00001.arrow
+│   │   ├── dataset_info.json
+│   │   └── state.json
+│   └── train
+│       ├── data-00000-of-00001.arrow
+│       ├── dataset_info.json
+│       └── state.json
+├── lenta
+│   ├── dataset_dict.json
+│   ├── test
+│   │   ├── data-00000-of-00001.arrow
+│   │   ├── dataset_info.json
+│   │   └── state.json
+│   └── train
+│       ├── data-00000-of-00001.arrow
+│       ├── dataset_info.json
+│       └── state.json
+├── lj
+│   ├── dataset_dict.json
+│   ├── test
+│   │   ├── data-00000-of-00001.arrow
+│   │   ├── dataset_info.json
+│   │   └── state.json
+│   └── train
+│       ├── data-00000-of-00001.arrow
+│       ├── dataset_info.json
+│       └── state.json
+├── ok
+│   ├── dataset_dict.json
+│   ├── test
+│   │   ├── data-00000-of-00001.arrow
+│   │   ├── dataset_info.json
+│   │   └── state.json
+│   └── train
+│       ├── data-00000-of-00001.arrow
+│       ├── dataset_info.json
+│       └── state.json
+├── reddit
+│   ├── dataset_dict.json
+│   ├── test
+│   │   ├── data-00000-of-00001.arrow
+│   │   ├── dataset_info.json
+│   │   └── state.json
+│   └── train
+│       ├── data-00000-of-00001.arrow
+│       ├── data-00000-of-00002.arrow
+│       ├── data-00001-of-00002.arrow
+│       ├── dataset_info.json
+│       └── state.json
+├── twitter
+│   ├── dataset_dict.json
+│   ├── test
+│   │   ├── data-00000-of-00001.arrow
+│   │   ├── dataset_info.json
+│   │   └── state.json
+│   └── train
+│       ├── data-00000-of-00001.arrow
+│       ├── dataset_info.json
+│       └── state.json
+└── vk
+    ├── dataset_dict.json
+    ├── test
+    │   ├── data-00000-of-00001.arrow
+    │   ├── dataset_info.json
+    │   └── state.json
+    └── train
+        ├── cache-ea99bc73999f9ac9.arrow
+        ├── data-00000-of-00001.arrow
+        ├── dataset_info.json
+        └── state.json

@@ -1,0 +1,37 @@
+GPTFlashAttnLMHeadModel(
+  (transformer): GPTModel(
+    (embeddings): GPT2Embeddings(
+      (word_embeddings): Embedding(50280, 768)
+    )
+    (layers): ModuleList(
+      (0-11): 12 x Block(
+        (mixer): MHA(
+          (rotary_emb): RotaryEmbedding()
+          (Wqkv): FusedDense(in_features=768, out_features=2304, bias=True)
+          (inner_attn): FlashSelfAttention(
+            (drop): Dropout(p=0.1, inplace=False)
+          )
+          (inner_cross_attn): FlashCrossAttention(
+            (drop): Dropout(p=0.1, inplace=False)
+          )
+          (out_proj): FusedDense(in_features=768, out_features=768, bias=True)
+        )
+        (dropout1): Dropout(p=0.1, inplace=False)
+        (drop_path1): StochasticDepth(p=0.0, mode=row)
+        (norm1): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+        (mlp): FusedMLP(
+          (fc1): Linear(in_features=768, out_features=3072, bias=True)
+          (fc2): Linear(in_features=3072, out_features=768, bias=True)
+        )
+        (dropout2): Dropout(p=0.1, inplace=False)
+        (drop_path2): StochasticDepth(p=0.0, mode=row)
+        (norm2): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+      )
+    )
+    (drop_f): Dropout(p=0.1, inplace=False)
+    (ln_f): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+  )
+  (lm_head): Linear(in_features=768, out_features=50280, bias=False)
+  (loss_fct): CrossEntropyLoss()
+  (pertoken_loss_fct): CrossEntropyLoss()
+)
