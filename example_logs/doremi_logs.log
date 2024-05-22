@@ -1,0 +1,142 @@
+
+  0%|                                                                                                                        | 0/100 [00:00<?, ?it/s]
+{'loss': 10.985, 'learning_rate': 0.00016675, 'epoch': 0.01}
+  5%|█████▌                                                                                                          | 5/100 [00:02<00:29,  3.25it/s]
+  [INFO|trainer.py:2814] 2024-05-21 23:23:20,584 >> Saving model checkpoint to /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-5
+[INFO|trainer.py:2823] 2024-05-21 23:23:20,584 >> Trainer.model is not a `PreTrainedModel`, only saving its state dict.
+[INFO|tokenization_utils_base.py:2163] 2024-05-21 23:23:22,158 >> tokenizer config file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-5/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2170] 2024-05-21 23:23:22,159 >> Special tokens file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-5/special_tokens_map.json
+  9%|██████████                                                                                                      | 9/100 [00:06<00:46,  1.94it/s]
+[INFO|trainer.py:2814] 2024-05-21 23:23:24,292 >> Saving model checkpoint to /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-10
+[INFO|trainer.py:2823] 2024-05-21 23:23:24,292 >> Trainer.model is not a `PreTrainedModel`, only saving its state dict.
+[INFO|tokenization_utils_base.py:2163] 2024-05-21 23:23:26,005 >> tokenizer config file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-10/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2170] 2024-05-21 23:23:26,005 >> Special tokens file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-10/special_tokens_map.json
+ 11%|████████████▏                                                                                                  | 11/100 [00:09<01:29,  1.00s/it]
+ 14%|███████████████▌                                                                                               | 14/100 [00:10<00:46,  1.86it/s]
+[INFO|trainer.py:2814] 2024-05-21 23:23:28,120 >> Saving model checkpoint to /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-15
+[INFO|trainer.py:2823] 2024-05-21 23:23:28,120 >> Trainer.model is not a `PreTrainedModel`, only saving its state dict.
+[INFO|tokenization_utils_base.py:2163] 2024-05-21 23:23:29,690 >> tokenizer config file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-15/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2170] 2024-05-21 23:23:29,691 >> Special tokens file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-15/special_tokens_map.json
+ 19%|█████████████████████                                                                                          | 19/100 [00:13<00:42,  1.89it/s]
+[INFO|trainer.py:2814] 2024-05-21 23:23:31,818 >> Saving model checkpoint to /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-20
+[INFO|trainer.py:2823] 2024-05-21 23:23:31,818 >> Trainer.model is not a `PreTrainedModel`, only saving its state dict.
+[INFO|tokenization_utils_base.py:2163] 2024-05-21 23:23:33,389 >> tokenizer config file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-20/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2170] 2024-05-21 23:23:33,389 >> Special tokens file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-20/special_tokens_map.json
+ 24%|██████████████████████████▋                                                                                    | 24/100 [00:17<00:37,  2.01it/s]
+ [INFO|trainer.py:2814] 2024-05-21 23:23:35,523 >> Saving model checkpoint to /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-25
+[INFO|trainer.py:2823] 2024-05-21 23:23:35,523 >> Trainer.model is not a `PreTrainedModel`, only saving its state dict.
+[INFO|tokenization_utils_base.py:2163] 2024-05-21 23:23:37,084 >> tokenizer config file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-25/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2170] 2024-05-21 23:23:37,084 >> Special tokens file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-25/special_tokens_map.json
+ 29%|████████████████████████████████▏                                                                              | 29/100 [00:21<00:36,  1.93it/s]
+[INFO|trainer.py:2814] 2024-05-21 23:23:39,211 >> Saving model checkpoint to /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-30
+[INFO|trainer.py:2823] 2024-05-21 23:23:39,211 >> Trainer.model is not a `PreTrainedModel`, only saving its state dict.
+[INFO|tokenization_utils_base.py:2163] 2024-05-21 23:23:40,745 >> tokenizer config file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-30/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2170] 2024-05-21 23:23:40,746 >> Special tokens file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-30/special_tokens_map.json
+ 34%|█████████████████████████████████████▋                                                                         | 34/100 [00:24<00:32,  2.05it/s]
+[INFO|trainer.py:2814] 2024-05-21 23:23:42,843 >> Saving model checkpoint to /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-35
+[INFO|trainer.py:2823] 2024-05-21 23:23:42,843 >> Trainer.model is not a `PreTrainedModel`, only saving its state dict.
+[INFO|tokenization_utils_base.py:2163] 2024-05-21 23:23:44,426 >> tokenizer config file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-35/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2170] 2024-05-21 23:23:44,427 >> Special tokens file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-35/special_tokens_map.json
+ 40%|████████████████████████████████████████████▍                                                                  | 40/100 [00:28<00:25,  2.37it/s]
+[INFO|trainer.py:2814] 2024-05-21 23:23:46,512 >> Saving model checkpoint to /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-40
+[INFO|trainer.py:2823] 2024-05-21 23:23:46,512 >> Trainer.model is not a `PreTrainedModel`, only saving its state dict.
+[INFO|tokenization_utils_base.py:2163] 2024-05-21 23:23:48,076 >> tokenizer config file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-40/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2170] 2024-05-21 23:23:48,076 >> Special tokens file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-40/special_tokens_map.json
+ 45%|█████████████████████████████████████████████████▉                                                             | 45/100 [00:33<00:24,  2.22it/s]
+[INFO|trainer.py:2814] 2024-05-21 23:23:51,145 >> Saving model checkpoint to /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-45
+[INFO|trainer.py:2823] 2024-05-21 23:23:51,146 >> Trainer.model is not a `PreTrainedModel`, only saving its state dict.
+[INFO|tokenization_utils_base.py:2163] 2024-05-21 23:23:53,518 >> tokenizer config file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-45/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2170] 2024-05-21 23:23:53,518 >> Special tokens file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-45/special_tokens_map.json
+ 49%|██████████████████████████████████████████████████████▍                                                        | 49/100 [00:39<00:44,  1.14it/s]
+[INFO|trainer.py:2814] 2024-05-21 23:23:57,786 >> Saving model checkpoint to /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-50
+[INFO|trainer.py:2823] 2024-05-21 23:23:57,786 >> Trainer.model is not a `PreTrainedModel`, only saving its state dict.
+[INFO|tokenization_utils_base.py:2163] 2024-05-21 23:24:01,534 >> tokenizer config file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-50/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2170] 2024-05-21 23:24:01,534 >> Special tokens file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-50/special_tokens_map.json
+ 55%|█████████████████████████████████████████████████████████████                                                  | 55/100 [00:48<00:35,  1.25it/s]
+[INFO|trainer.py:2814] 2024-05-21 23:24:06,828 >> Saving model checkpoint to /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-55
+[INFO|trainer.py:2823] 2024-05-21 23:24:06,829 >> Trainer.model is not a `PreTrainedModel`, only saving its state dict.
+[INFO|tokenization_utils_base.py:2163] 2024-05-21 23:24:10,885 >> tokenizer config file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-55/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2170] 2024-05-21 23:24:10,885 >> Special tokens file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-55/special_tokens_map.json
+ 60%|██████████████████████████████████████████████████████████████████▌                                            | 60/100 [00:58<00:40,  1.01s/it]
+[INFO|trainer.py:2814] 2024-05-21 23:24:16,429 >> Saving model checkpoint to /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-60
+[INFO|trainer.py:2823] 2024-05-21 23:24:16,429 >> Trainer.model is not a `PreTrainedModel`, only saving its state dict.
+[INFO|tokenization_utils_base.py:2163] 2024-05-21 23:24:20,748 >> tokenizer config file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-60/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2170] 2024-05-21 23:24:20,749 >> Special tokens file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-60/special_tokens_map.json
+ 65%|████████████████████████████████████████████████████████████████████████▏                                      | 65/100 [01:08<00:32,  1.06it/s]
+[INFO|trainer.py:2814] 2024-05-21 23:24:26,401 >> Saving model checkpoint to /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-65
+[INFO|trainer.py:2823] 2024-05-21 23:24:26,403 >> Trainer.model is not a `PreTrainedModel`, only saving its state dict.
+[INFO|tokenization_utils_base.py:2163] 2024-05-21 23:24:30,565 >> tokenizer config file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-65/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2170] 2024-05-21 23:24:30,565 >> Special tokens file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-65/special_tokens_map.json
+ 70%|█████████████████████████████████████████████████████████████████████████████▋                                 | 70/100 [01:17<00:26,  1.15it/s]
+[INFO|trainer.py:2814] 2024-05-21 23:24:35,570 >> Saving model checkpoint to /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-70
+[INFO|trainer.py:2823] 2024-05-21 23:24:35,570 >> Trainer.model is not a `PreTrainedModel`, only saving its state dict.
+[INFO|tokenization_utils_base.py:2163] 2024-05-21 23:24:39,675 >> tokenizer config file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-70/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2170] 2024-05-21 23:24:39,677 >> Special tokens file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-70/special_tokens_map.json
+ 75%|███████████████████████████████████████████████████████████████████████████████████▎                           | 75/100 [01:27<00:21,  1.15it/s]
+[INFO|trainer.py:2814] 2024-05-21 23:24:44,976 >> Saving model checkpoint to /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-75
+[INFO|trainer.py:2823] 2024-05-21 23:24:44,976 >> Trainer.model is not a `PreTrainedModel`, only saving its state dict.
+[INFO|tokenization_utils_base.py:2163] 2024-05-21 23:24:49,807 >> tokenizer config file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-75/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2170] 2024-05-21 23:24:49,807 >> Special tokens file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-75/special_tokens_map.json
+ 80%|████████████████████████████████████████████████████████████████████████████████████████▊                      | 80/100 [01:36<00:19,  1.03it/s]
+[INFO|trainer.py:2814] 2024-05-21 23:24:54,680 >> Saving model checkpoint to /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-80
+[INFO|trainer.py:2823] 2024-05-21 23:24:54,680 >> Trainer.model is not a `PreTrainedModel`, only saving its state dict.
+[INFO|tokenization_utils_base.py:2163] 2024-05-21 23:24:59,385 >> tokenizer config file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-80/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2170] 2024-05-21 23:24:59,385 >> Special tokens file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-80/special_tokens_map.json
+ 81%|█████████████████████████████████████████████████████████████████████████████████████████▉                     | 81/100 [01:45<00:57,  3.02s/it]
+ 85%|██████████████████████████████████████████████████████████████████████████████████████████████▎                | 85/100 [01:46<00:15,  1.05s/it]
+[INFO|trainer.py:2814] 2024-05-21 23:25:04,334 >> Saving model checkpoint to /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-85
+[INFO|trainer.py:2823] 2024-05-21 23:25:04,334 >> Trainer.model is not a `PreTrainedModel`, only saving its state dict.
+[INFO|tokenization_utils_base.py:2163] 2024-05-21 23:25:08,312 >> tokenizer config file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-85/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2170] 2024-05-21 23:25:08,315 >> Special tokens file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-85/special_tokens_map.json
+ 90%|███████████████████████████████████████████████████████████████████████████████████████████████████▉           | 90/100 [01:55<00:09,  1.11it/s]
+[INFO|trainer.py:2814] 2024-05-21 23:25:13,645 >> Saving model checkpoint to /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-90
+[INFO|trainer.py:2823] 2024-05-21 23:25:13,646 >> Trainer.model is not a `PreTrainedModel`, only saving its state dict.
+[INFO|tokenization_utils_base.py:2163] 2024-05-21 23:25:21,398 >> tokenizer config file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-90/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2170] 2024-05-21 23:25:21,399 >> Special tokens file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-90/special_tokens_map.json
+ 95%|█████████████████████████████████████████████████████████████████████████████████████████████████████████▍     | 95/100 [02:14<00:08,  1.71s/it]
+[INFO|trainer.py:2814] 2024-05-21 23:25:32,648 >> Saving model checkpoint to /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-95
+[INFO|trainer.py:2823] 2024-05-21 23:25:32,648 >> Trainer.model is not a `PreTrainedModel`, only saving its state dict.
+[INFO|tokenization_utils_base.py:2163] 2024-05-21 23:25:37,007 >> tokenizer config file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-95/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2170] 2024-05-21 23:25:37,008 >> Special tokens file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-95/special_tokens_map.json
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 100/100 [02:21<00:00,  1.12it/s]
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 100/100 [02:21<00:00,  1.12it/s]
+[INFO|trainer.py:2814] 2024-05-21 23:25:39,769 >> Saving model checkpoint to /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-100
+[INFO|trainer.py:2823] 2024-05-21 23:25:39,770 >> Trainer.model is not a `PreTrainedModel`, only saving its state dict.
+[INFO|tokenization_utils_base.py:2163] 2024-05-21 23:25:42,663 >> tokenizer config file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-100/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2170] 2024-05-21 23:25:42,664 >> Special tokens file saved in /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M/checkpoint-100/special_tokens_map.json
+{'train_runtime': 149.3718, 'train_samples_per_second': 42.846, 'train_steps_per_second': 0.669, 'train_loss': 3.764439764022827, 'epoch': 1.0}
+[INFO|trainer.py:2012] 2024-05-21 23:25:45,288 >>
+Training completed. Do not forget to share your model on huggingface.co/models =)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 100/100 [02:27<00:00,  1.47s/it]
+[INFO|trainer.py:2814] 2024-05-21 23:25:45,291 >> Saving model checkpoint to /root/diplom_doremi/doremi/model_output/pile_doremi_r1_120M_ref:pile_baseline_data_200k_120M
+[INFO|trainer.py:2823] 2024-05-21 23:25:45,291 >> Trainer.model is not a `PreTrainedModel`, only saving its state dict.
+***** train metrics *****
+  avg_domain_weight:dzen    =     0.0005
+  avg_domain_weight:lenta   =     0.1107
+  avg_domain_weight:lj      =     0.0114
+  avg_domain_weight:ok      =     0.1378
+  avg_domain_weight:reddit  =     0.5918
+  avg_domain_weight:twitter =     0.0175
+  avg_domain_weight:vk      =     0.1304
+  epoch                     =        1.0
+  train_loss                =     3.7644
+  train_runtime             = 0:02:29.37
+  train_samples_per_second  =     42.846
+  train_steps_per_second    =      0.669
+
+*** Evaluate ***
+
+322 ***** eval metrics *****
+323   epoch                           =        1.0
+324   eval_dzen:log_perplexity        =     3.1120
+325   eval_lenta:log_perplexity       =     3.1383
+326   eval_lj:log_perplexity          =     3.0713
+327   eval_ok:log_perplexity          =     3.1582
+328   eval_reddit:log_perplexity      =     3.1081
+329   eval_runtime                    = 0:01:33.12
+330   eval_samples_per_second         =   2981.037
+331   eval_steps_per_second           =     34.886
+332   eval_twitter:log_perplexity     =     3.3001
+333   eval_uniform_avg_log_perplexity =     3.1141
+334   eval_vk:log_perplexity          =     3.0892
+335   eval_worst_case_log_perplexity  =     3.1582
