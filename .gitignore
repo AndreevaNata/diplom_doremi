@@ -160,7 +160,9 @@ cython_debug/
 #.idea/
 
 # Doremi default folders
-# doremi/
+doremi/flash-attention
+doremi/model_output
+doremi/venv
 cache/
 outputs/
 pile/
