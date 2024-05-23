@@ -18,7 +18,7 @@
 300   train_samples_per_second  =     42.846
 301   train_steps_per_second    =      0.669
 
-3*** Evaluate ***
+*** Evaluate ***
 
 322 ***** eval metrics *****
 323   epoch                           =        1.0
